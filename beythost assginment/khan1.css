@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>RA</title>
+<style type="text/css">
+body { text-align:center; margin:0px auto; }
+*
+{
+margin:1px;
+padding:1px;	
+}
+#number1
+{
+	margin: -12px -5px;	
+background:hsla(129,10%,68%,55) ;
+height: 30px;
+top: auto;
+right: 0;
+left: 0;
+}
+#number2
+{
+	margin: 40px 40px;	
+background:hsla(129,10%,40%,55) ;
+height: 90px;
+top: auto;
+right: 0;
+left: 0;
+}
+#number3
+{
+	margin: -5px -5px;	
+background:hsla(129,10%,68%,55) ;
+height: 30px;
+top: auto;
+right: 0;
+left: 0;
+}
+
+#page02 {
+margin:0px auto;
+	margin:170px;
+margin-left: 280px;
+	background:hsla(129,10%,68%,55);
+	height:600px;	
+	width:950px; 
+	text-align:left;
+	
+	
+	
+	}
+	#logo  {
+	margin:0px auto;
+	margin-left: 730px;
+	height: 150px;
+	width: 250px;n
+	float: right;
+	position:absolute;
+		}
+	#name {
+  font-size: 50px;
+  height:50px;
+  width:400px;
+  font-family: "Franklin Gothic Heavy";
+  color:hsla(0,0%,10%,1.00);
+  margin-top:-60px;
+  z-index: 1;
+}
+#text {
+margin:0px auto;	
+  font-size: 20px;
+  
+	margin-left: 0px;
+  height:800px;
+  width:800px;
+  float:left;
+  position:absolute;
+}
+#link {
+	
+ margin:400px auto;
+	
+	height: 40px;
+	width: 1050px;
+	float: left;
+	position:absolute;
+  
+}
+#text1link {
+margin:0px auto;
+	margin-left: -270px;	
+  font-size: 20px;
+  background:hsla(129,10%,68%,55);
+  height:600px;
+  width:250px;
+  float:left;
+  position:absolute;
+}
+#page022 {
+	
+	margin:0px auto;
+	margin:170px;
+margin-left: 280px;
+	background:hsla(129,10%,68%,55);
+	height:1700px;	
+	width:950px; 
+	text-align:left;
+	
+	}
+#tablepage {
+	background:hsla(129,10%,68%,55);
+	height: 262px;
+	width: 700px;
+	text-align: left;
+	margin: 130px;
+	color:hsla(120,15%,30%,55);
+	}
+</style>
+</head>
+</body>
+</html

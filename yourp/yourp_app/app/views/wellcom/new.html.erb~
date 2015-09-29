@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+</head>
+<body>
+
+<div class="container">
+  <div class="jumbotron">
+    <h1>Wellcom My Psots and User</h1>
+    <li><%= link_to "My Post", new_post_path %></li>
+    <li><%= link_to "My User", new_user_path %></li>
+ 
+ </div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title><%= @title %></title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+  <%= render 'layouts/stylesheets'%>
+</head>
+
+  <body style="background:#80BFFF"ss>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-responsive.css">
+  <div class="container">
+<%= render 'layouts/header'%>
+
+</nav>
+</header>
+<section class="round">
+
+<%= yield %>
+</section>
+  <%= render 'layouts/footer'%>
+</div>
+</body>
+</html>

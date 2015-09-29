@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>zamir2</title>
+<Link rel="stylesheet" href="khan1.css"/>
+
+<body   bgcolor="#98F"> 
+
+<center>
+<div  id="number1">
+</div>
+<div  id="number2"><p><big><big><big><big><font color="#89f">Welcome TO My Home Page</font></big></big></big></big></p></div>
+
+<div  id="number3">
+</div><br></center>
+<center>
+
+<big><big><big><font color="#23F">Welcome...................!</font></big></big></big>
+</center>
+<div  id="page02">
+<div id="name">
+<h4><font color="blue"><u>ZAMEER&nbspKHAN&nbspPAEZAI</u></font></h4>
+</div>
+<center>
+<div id="text1link" style="border-radius: 500px;"> <p><br><br><br><h3><font color="#71E"><big><u>Select Eny Opations</big></u></font></h3><br>
+1.&nbsp&nbsp<a href="./index.html">  Wellcome My Home page</a><br><br>
+2.&nbsp&nbsp<a href="./CURRICULUM VITA.html">  CURRICULUM VITA</a><br><br>
+3.&nbsp&nbsp<a href="./table.html">  TABLE</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br>
+4.&nbsp&nbsp<a href="./textbox.html">  TEXTBOX</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br></p></div>
+</center>
+<div id="text">
+<p><font color="black">
+<br>My Name is zameer. I am from khanozai.I am leving in khanozai.<br><br> know I am  student of Balochistan. I  study in master degree.I study a<br> <br>  MCS.MCS is the best degree  because  every person want to a  MCS <br> <br> degree.There are alatap of subjects in MCS. I likes computer filed. I want to <br> <br> a web designer. Every programming I like it. My fevert<font color="green"> LANGUAGES ( JAVA<br> <br>  PROGRAMMING, C# ,C, C++.</font> I  am a programmer of JAVA and I have built a<font color="green"><br> <br>  SOFTWARE in  (JAVA PROGRAMMING) </font>language.
+</font></p>
+
+
+
+</div>
+<div id="logo">
+<img src="zamir.png" height="220" width="220" style="
+	border-radius: 500px;"> 
+</div>
+</div>
+<div id="pageBottom"> </div>
+</center>
+</body>
+</html>

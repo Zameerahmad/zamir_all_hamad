@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>YourpApp</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body style="background:#80BFFF">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<nav class="navbar navbar-inverse">
+  <div class="navbar-inner">
+<ul class="nav">
+      
+    <li><%= link_to "Wellcome My Page", controller: 'wellcom'%></li>
+     <li><%= link_to "Posts | Listing", posts_path %></li>
+     <li><%= link_to "My User", new_user_path %></li>
+     <li><%= link_to "Users | Listing",users_path %></li>
+     
+
+    
+     
+     </div>
+  </div>
+</nav>
+<div class="container">
+<%= yield %>
+
+</body>
+</html>

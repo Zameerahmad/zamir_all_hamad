@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>za</title>
+
+</head>
+<body   bgcolor="#98F"> 
+<Link rel="stylesheet" href="khan1.css"/>
+<center>
+<div  id="number1">
+</div>
+<div  id="number2"><p><big><big><big><big><font color="#89f">Welcome TO My Time Table</font></big></big></big></big></p></div>
+
+<div  id="number3">
+</div><br></center>
+
+<center>
+<div  id="page02">
+<div id="name">
+<h4><font color="blue">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspTIME&nbsp&nbsp&nbspTABLE</font></h4>
+</div>
+<center>
+<div id="text1link" style="border-radius: 500px;"> <p><br><br><br><h3><font color="#71E"><big><u>Select Eny Opations</big></u></font></h3><br>
+1.&nbsp&nbsp<a href="./index.html">  Wellcome My Home page</a><br><br>
+2.&nbsp&nbsp<a href="./CURRICULUM VITA.html">  CURRICULUM VITA</a><br><br>
+3.&nbsp&nbsp<a href="./table.html">  TABLE</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br>
+4.&nbsp&nbsp<a href="./textbox.html">  TEXTBOX</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br></p></div></center>
+<div id="text"><br>
+<div id="tablepage">
+<h1><font color="#04f">Calculation of R for different a Gass R 0 C and 1 atm(STP).</font></h1>
+<table bgcolor="#0.114f" border="3" bordercolor="blue">
+<tr>
+<th width="150" align="center"><font color="sky blue">S_No</font></th>
+<th width="150" align="center"><font color="sky blue">GASS</font></th>
+<th width="150" align="center"><font color="sky blue">n,mol</font></th>
+<th width="150" align="center"><font color="sky blue">V/L</font></th>
+<th width="150" align="center"><font color="sky blue">PV/nT, LatmK<sup>-1</sup> mol<sup>-1</sup></font></th>
+
+</tr>
+
+<tr >
+<td width="50" align="center"><font color="sky blue"> 1</font></td>
+<td width="50" align="center"><font color="sky blue"> Helium</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.12641</font></td>
+<td width="50" align="center"><font color="sky blue"> 3.0591</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.082101</font></td>
+</tr>
+<tr >
+<td width="50" align="center"><font color="sky blue"> 2</font></td>
+<td width="50" align="center"><font color="sky blue"> Oxygen</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.12394</font></td>
+<td width="50" align="center"><font color="sky blue"> 2.7755</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.081984</font></td>
+</tr>
+<tr >
+<td width="50" align="center"><font color="sky blue"> 3</font></td>
+<td width="50" align="center"><font color="sky blue"> Methans</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.10912</font></td>
+<td width="50" align="center"><font color="sky blue"> 2.4399</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.081859</font></td>
+</tr>
+<tr >
+<td width="50" align="center"><font color="sky blue"> 4</font></td>
+<td width="50" align="center"><font color="sky blue"> Carbon Dixide</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.12722</font></td>
+<td width="50" align="center"><font color="sky blue"> 2.8441</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.081844</font></td>
+
+</tr>
+<tr >
+<td width="50" align="center"><font color="sky blue"> 5</font></td>
+<td width="50" align="center"><font color="sky blue"> Ethylene</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.11398</font></td>
+<td width="50" align="center"><font color="sky blue"> 2.5350</font></td>
+<td width="50" align="center"><font color="sky blue"> 0.081423</font></td>
+</tr>
+
+
+
+</table>
+</div>
+
+
+</body>
+</html>
